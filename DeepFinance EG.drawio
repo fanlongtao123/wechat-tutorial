@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="62" value="trading signals" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+        <mxCell id="62" value="{2} trading signals" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="481" y="55" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=1;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
@@ -151,9 +151,6 @@
         <mxCell id="94" value="System&#xa;specs" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="139.99999999999994" y="565.0000000000001" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm4_mL6fxK8GZgNtWApq-96" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Charlie Munger&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;查理·芒格&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="76" y="120" width="104" height="74" as="geometry" />
-        </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-98" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Warren Buffett&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;沃伦·巴菲特&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="292" y="120" width="104" height="74" as="geometry" />
         </mxCell>
@@ -225,7 +222,7 @@
             <mxPoint x="140" y="288.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nm4_mL6fxK8GZgNtWApq-130" value="trading signals" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
+        <mxCell id="Nm4_mL6fxK8GZgNtWApq-130" value="{2} trading signals" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
           <mxGeometry x="481" y="147" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-132" value="Risk Manager" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
