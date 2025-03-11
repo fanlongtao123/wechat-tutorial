@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Charlie Munger&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;查理·芒格&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="286" y="30" width="101.5" height="70" as="geometry" />
+          <mxGeometry x="292" y="30" width="101.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Start" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="19" y="259" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" y="259" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Deep Finance AI Hedge Fund" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
           <mxGeometry x="480.9999999999999" y="461" width="400" height="50" as="geometry" />
@@ -28,7 +28,7 @@
             <mxPoint x="453.5" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52" value="Pick Agent&#xa;知识库" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+        <mxCell id="52" value="{1} Pick Agent&#xa;知识库" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="166" y="270" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;flowAnimation=0;" parent="1" edge="1">
@@ -45,21 +45,15 @@
         </mxCell>
         <mxCell id="66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=1;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="615" y="241" as="sourcePoint" />
-            <mxPoint x="713.5" y="120" as="targetPoint" />
+            <mxPoint x="850" y="361" as="sourcePoint" />
+            <mxPoint x="948.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="736.047619047619" y="371" as="sourcePoint" />
-            <mxPoint x="736.047619047619" y="120" as="targetPoint" />
+            <mxPoint x="1039.997619047619" y="471" as="sourcePoint" />
+            <mxPoint x="1039.997619047619" y="220" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="70" value="Existing&#xa;Models" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="530.0000000000002" y="340.9999999999999" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="71" value="Equipment&#xa;specification" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="615" y="341" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2" parent="1" source="5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -78,9 +72,6 @@
               <mxPoint x="650" y="430" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="74" value="Resources" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="621" y="390.99999999999994" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" target="5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -164,7 +155,7 @@
           <mxGeometry x="76" y="120" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-98" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Warren Buffett&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;沃伦·巴菲特&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="286" y="120" width="104" height="74" as="geometry" />
+          <mxGeometry x="292" y="120" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-108" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -177,16 +168,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-110" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Ping&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;段永平&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="207" width="104" height="74" as="geometry" />
+          <mxGeometry x="289.5" y="207" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-111" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Cathie Wood&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;木头姐&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="300" width="104" height="74" as="geometry" />
+          <mxGeometry x="289.5" y="300" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-112" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Ben Graham&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;格雷厄姆&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="286" y="391" width="104" height="74" as="geometry" />
+          <mxGeometry x="292" y="391" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-113" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;u&gt;&lt;br&gt;Bill Ackman&lt;/u&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;比尔·阿克曼&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="284.75" y="480" width="104" height="74" as="geometry" />
+          <mxGeometry x="290.75" y="480" width="104" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-125" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -230,12 +221,15 @@
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="106" y="287" as="sourcePoint" />
-            <mxPoint x="151" y="287" as="targetPoint" />
+            <mxPoint x="95" y="288.52" as="sourcePoint" />
+            <mxPoint x="140" y="288.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-130" value="trading signals" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
           <mxGeometry x="481" y="147" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm4_mL6fxK8GZgNtWApq-132" value="Risk Manager" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="570" y="259" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
