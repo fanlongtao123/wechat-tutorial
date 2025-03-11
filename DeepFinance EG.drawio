@@ -226,7 +226,10 @@
           <mxGeometry x="481" y="147" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nm4_mL6fxK8GZgNtWApq-132" value="Risk Manager" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="570" y="259" width="110" height="60" as="geometry" />
+          <mxGeometry x="610" y="259" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm4_mL6fxK8GZgNtWApq-135" value="{2} trading signals" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
+          <mxGeometry x="479" y="261" width="39" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
